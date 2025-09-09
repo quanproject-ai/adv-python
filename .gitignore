@@ -1,0 +1,4 @@
+# ignore pytest and coverage.py  cache files
+**/__pycache__
+.pytest_cache
+.coverage 
